@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Janne 
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python, Java, HTML/CSS/PHP 
+- 🌱 I’m currently learning Python, Java, HTML/CSS/JS and PHP 
 - 📫 How to reach me: jabbekeipert@gmail.com
