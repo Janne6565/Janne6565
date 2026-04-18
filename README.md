@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Janne 
-- 👀 I’m interested in Coding 
+- 👀 I'm interested in Coding
+- 🔗 Please checkout my Website to see my projects: [https://jannekeipert.de](jannekeipert.de)
 - 🌱 I’m currently learning Python, Java, HTML/CSS, JS/TS and PHP 
 - 📫 You can reach me under jabbekeipert@gmail.com
